@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Sayli\\Downloads\\nav_bar-2016-03-01\\NavBar\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sirensound.mp3",
+        "source": "C:\\Users\\Sayli\\Downloads\\nav_bar-2016-03-01\\NavBar\\app\\src\\main\\res\\raw\\sirensound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Sayli\\Desktop\\NavBar\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Sayli\\Desktop\\NavBar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\Sayli\\Desktop\\NavBar\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sirensound.mp3",
+        "source": "C:\\Users\\Sayli\\Desktop\\NavBar\\app\\src\\main\\res\\raw\\sirensound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Piyu\\AndroidStudioProjects\\NavBar\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sirensound.mp3",
+        "source": "C:\\Users\\Piyu\\AndroidStudioProjects\\NavBar\\app\\src\\main\\res\\raw\\sirensound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Piyu\\AndroidStudioProjects\\NavBar\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Piyu\\AndroidStudioProjects\\NavBar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\Sayli\\Downloads\\nav_bar-2016-03-01\\NavBar\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Sayli\\Downloads\\nav_bar-2016-03-01\\NavBar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    }
+]

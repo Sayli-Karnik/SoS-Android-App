@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Security Tracker</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_msg">Edit_msgActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_save_contacts">Save_contactsActivity</string>
+    <string name="title_activity_siren">SirenActivity</string>
+    <string name="title_activity_call">CallActivity</string>
+    <string name="title_activity_show_location">ShowLocation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_app_id">AIzaSyCTku09aUDJPj5Er-Wwr3VfTrgrflahHNY</string>
+    <string name="about_us">Developed by Sayli Karnik, Sharayu Kurne, Ankita Narvekar as a part of Software Engineering Project for Sem 6.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="location">Bhavans Campus,Munshi Nagar,Andheri-west,400058,Mumbai,Maharashtra</string>
+</resources>

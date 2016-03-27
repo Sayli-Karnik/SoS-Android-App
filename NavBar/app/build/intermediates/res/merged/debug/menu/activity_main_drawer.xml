@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+
+            android:title="Save Contacts" />
+
+        <item
+            android:id="@+id/nav_slideshow"
+
+            android:title="Siren" />
+        <item
+            android:id="@+id/nav_manage"
+
+            android:title="Draft Message" />
+        <item
+            android:id="@+id/nav_call"
+
+            android:title="Emergency Call" />
+        <item
+            android:id="@+id/about_us"
+
+            android:title="About Us" />
+
+
+    </group>
+
+
+</menu>
